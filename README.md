@@ -3,6 +3,11 @@
 A real-time interactive stock price simulator built in C++ using the **Raylib** graphics library, implementing **Geometric Brownian Motion (GBM)** to model realistic price movement.
 
 ## What It Does
+
+
+https://github.com/user-attachments/assets/b03ed64c-ab85-4012-8e0e-b1171d47c729
+
+
 - Simulates 100 time steps of stock price movement in real time
 - Visualizes price as a live line chart with green (up) and red (down) coloring
 - Displays live High, Low, and Current Price
