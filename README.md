@@ -1,6 +1,6 @@
 # Stock Price Simulator
 
-A real-time interactive stock price simulator built in C++ using the **Raylib** graphics library, implementing **Geometric Brownian Motion (GBM)** to model realistic price movement.
+A interactive stock price simulator built in C++ using the **Raylib** graphics library, implementing **Geometric Brownian Motion (GBM)** to model realistic price movement.
 
 ## What It Does
 
@@ -59,5 +59,5 @@ g++ main.cpp -o simulator -lraylib
 
 ## Tech Stack
 - C++
-- Raylib (graphics and input)
+- Raylib (graphics, input and output)
 - Geometric Brownian Motion (GBM) price model
