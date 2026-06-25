@@ -4,7 +4,7 @@
 
 using namespace std;
 
-float prices[100]; // stores simulated stock prices for 100 time steps
+float prices[100];  // stores simulated stock prices for 100 time steps
 Color linecolors[100];
 
 void generateprices(float startprice, float drift, float volatility, int mode, float floor = 1) {
